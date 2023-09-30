@@ -6,10 +6,10 @@ Este repositório contém as soluções desenvolvidas por mim para cada um dos d
 ## Desafios em Java
 
 1. **Desafio Equilibrando o Saldo**
-   - Arquivo: [equilibrandoSaldo.java](LINK GIT)
+   - Arquivo: [equilibrandoSaldo.java](https://github.com/rittiele/bootcampSantander2023/blob/main/Java/equilibrandoSaldo.java))
 
 2. **Desafio: Organizando Seus Ativos**
-   - Arquivo: [organizandoSeusAtivos.java]()
+   - Arquivo: [Java/organizandoSeusAtivos.java](https://github.com/rittiele/bootcampSantander2023/blob/main/Java/organizandoSeusAtivos.java))
 
 3. **Desafio: Condicionalmente Rico**
    - Arquivo: [condicionalmenteRico.java]()
